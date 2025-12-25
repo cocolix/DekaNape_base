@@ -1,0 +1,10 @@
+config ZMK_KEYBOARD_NAME
+    default "Deka Nape"
+
+config BT_MAX_CONN
+    default 3
+
+# Set this to the same number as BT_MAX_CONN
+config BT_MAX_PAIRED
+    default 3
+

@@ -1,0 +1,8 @@
+file_format: "1"
+id: DekaNape
+name: DekaNape
+type: shield
+url: https://github.com/nykxx/zmk-config-DekaNape
+requires: [xiao_ble]
+features:
+  - keys
