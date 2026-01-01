@@ -47,8 +47,8 @@
 
         base1_layer {
             bindings = <
-&mkp MB4   &mkp E      &mkp C  &mkp LCLK
-&mkp MB5   &mkp F      &mkp D  &mkp RCLK  
+&mkp MB4   &kp E      &kp C  &mkp LCLK
+&mkp MB5   &kp F      &kp D  &mkp RCLK  
             >;
         };
 
